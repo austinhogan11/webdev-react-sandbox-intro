@@ -1,7 +1,7 @@
 {
-  "name": "introduction-to-jsx",
+  "name": "jsx-intro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Udemy Web Dev JSX Intro",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
